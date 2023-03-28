@@ -1,0 +1,15 @@
+Revert "Revert "Revert "eliminato file test revert"""
+
+This reverts commit 1f18bdd3de0c808cbe9ef72db54cb0bd97f5af6b.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch dev
+# Your branch is ahead of 'origin/dev' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   revertTest.txt
+#
+# era sbagliato
